@@ -10,7 +10,10 @@ I’m a passionate software developer with over 15 years of experience, curious 
 *   ✉️  You can contact me at [iulian.safta@me.com](mailto:iulian.safta@me.com)
 *   🚀  I'm currently working on [A blockchain indexer in rust lang](http://github.com/iuliansafta/solana-indexer)
 *   🧠  I'm learning Rust lang
-*   🤝  I'm open to collaborating on Interesting projects### Skills 
+*   🤝  I'm open to collaborating on Interesting projects
+
+### Skills 
+
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
